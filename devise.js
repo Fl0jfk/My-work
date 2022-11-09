@@ -105,3 +105,5 @@ if(resultat <= 1 ){
 }
 console.log(valeur1 + " " + choix1 + sOuPasS + " équivaut à " + Math.round(resultat*1000)/1000 + " " + choix2 + sOuPasS2);              
 }
+
+//Vacarme&Fl0jfk
